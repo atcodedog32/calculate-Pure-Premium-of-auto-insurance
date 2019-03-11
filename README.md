@@ -1,4 +1,4 @@
-# calculate-Pure-Premium-of-auto-insurance
+# Calculate-Pure-Premium-of-auto-insurance
 Variable information in the data:
 
 ID: policy key
